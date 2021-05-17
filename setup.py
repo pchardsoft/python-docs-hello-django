@@ -1,8 +1,8 @@
 from setuptools import setup
 
 setup(
-  name = 'DAS_finance',         # How you named your package folder (TSIClient)
-  packages = ['DAS_finance'],   # Chose the same as "name"
+  name = 'python-docs-hello-django',         # How you named your package folder (TSIClient)
+  packages = ['python-docs-hello-django'],   # Chose the same as "name"
   version = '1.0.0',      # Start with a small number and increase it with every change you make
   #license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   #long_description=long_description,
