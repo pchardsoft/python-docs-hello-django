@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'dasfinancetest20210519'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_b694e3b3d07f4673a7dde97db301618b }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_af1b487b793841f8a43857d936db83ce }}
