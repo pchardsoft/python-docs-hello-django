@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'dasfinance'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_ef8c8de350c6450eb388f1ea6c199120 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_9cedc2fd75f1466f894581dac9759bf7 }}
